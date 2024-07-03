@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nilina2002&label=Profile%20views&color=0e75b6&style=flat" alt="nilina2002" /> </p>
 
 ---
-- 🌱 I’m currently learning **Object Oriented Programming, Full-Stack Development**
+- 🌱 I’m currently learning **Object Oriented Programming, Full-Stack Development, JavaScript and React**
 
 - 📫 How to reach me **nilina610@gmail.com**
 

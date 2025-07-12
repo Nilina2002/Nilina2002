@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilina</h1>
 <h3 align="center">Undergraduate at USJ and SLIIT, combining academic knowledge with practical experience.</h3>
-<a href="https://nilina-portfolio.vercel.app/"><h2>My Portfolio</h2></a>
+<a href="https://nilina-portfolio.vercel.app/"><h2>My Portfolio</h2></a>: https://nilina-portfolio.vercel.app/
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nilina2002&label=Profile%20views&color=0e75b6&style=flat" alt="nilina2002" /> </p>
 

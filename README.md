@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nilina2002&label=Profile%20views&color=0e75b6&style=flat" alt="nilina2002" /> </p>
 
 ---
-- 🌱 I’m currently learning Full-Stack Development, MERN and MEAN stacks**
+- 🌱 I’m currently learning **ML**, **Data Science** and **Full-Stack Development**
 
 - 📫 How to reach me **nilina610@gmail.com**
 

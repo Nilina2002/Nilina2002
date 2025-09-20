@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilina</h1>
+<h1 align="center">Hi , I'm Nilina</h1>
 <h3 align="center">Undergraduate at USJ and SLIIT, combining academic knowledge with practical experience.</h3>
 <p align="center">My Portfolio: https://nilina-portfolio.vercel.app/ </p>
 
